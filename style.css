@@ -60,6 +60,7 @@ color: #b9b9b9;
 }
 
 img {
+    object-fit: cover;
     filter: grayscale(.4);
 }
     
